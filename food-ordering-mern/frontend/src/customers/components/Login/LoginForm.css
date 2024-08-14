@@ -1,0 +1,23 @@
+/* LoginForm.css */
+.login-container {
+    background-color: #ffffff; /* white background */
+    padding: 16px;
+    border-radius: 4px;
+}
+
+.text-black {
+    color: #000000; /* black text */
+}
+
+.input-label {
+    color: #000000 !important; /* important to override MUI styles */
+}
+
+.input-field {
+    color: #000000; /* black text for input fields */
+}
+
+.primary-button {
+    background-color: #1976d2; /* blue background */
+    color: #ffffff; /* white text */
+}
